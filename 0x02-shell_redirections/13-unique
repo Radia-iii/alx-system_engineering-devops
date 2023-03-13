@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -u
+echo "Javascript Perl C++ "Javascript Java Python Java" | tr ' ' '\n' | sort | uniq -u
